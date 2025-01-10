@@ -11,37 +11,35 @@
                                 </div>
                                 <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-xl-flex">
                                     <ul class="navigation">
-                                        <li class="active menu-item-has-children"><a href="javascript:void(0)">Odyssey</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="/">Home One</a></li>
-                                            </ul>
+                                        <li class="active menu-item-has-children"><a href="/">Odyssey</a>
+                                          
                                         </li>
-                                        <li><a href="about-us.html">Team</a></li>
+                                        <li><a href="about-us.php"> Comandos</a></li>
                                         <li class="menu-item-has-children"><a href="tournament.php">Servers & Planes</a>
                                         </li>
                                         <li class="menu-item-has-children"><a href="javascript:void(0)">Planes</a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item-has-children"><a href="javascript:void(0)">Gaming Shop</a>
                                                     <ul class="sub-menu">
-                                                        <li><a href="shop.html">Shop Page</a></li>
-                                                        <li><a href="shop-details.html">Shop Details</a></li>
-                                                        <li><a href="cart.html">Cart</a></li>
-                                                        <li><a href="checkout.html">Checkout</a></li>
+                                                        <li><a href="shop.php">Shop Page</a></li>
+                                                        <li><a href="shop-details.php">Shop Details</a></li>
+                                                        <li><a href="cart.php">Cart</a></li>
+                                                        <li><a href="checkout.php">Checkout</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="services.html">Our Services</a></li>
-                                                <li><a href="services-details.html">Services Details</a></li>
-                                                <li><a href="team-details.html">Player Details</a></li>
-                                                <li><a href="login.html">Login</a></li>
-                                                <li><a href="sign-up.html">Sign up</a></li>
-                                                <li><a href="reset-password.html">Forgot Password</a></li>
-                                                <li><a href="404.html">404 Page</a></li>
+                                                <li><a href="services.php">Our Services</a></li>
+                                                <li><a href="services-details.php">Services Details</a></li>
+                                                <li><a href="team-details.php">Player Details</a></li>
+                                                <li><a href="login.php">Login</a></li>
+                                                <li><a href="sign-up.php">Sign up</a></li>
+                                                <li><a href="reset-password.php">Forgot Password</a></li>
+                                                <li><a href="404.php">404 Page</a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children"><a href="javascript:void(0)">FAQ</a>
                                             <ul class="sub-menu">
-                                                <li><a href="blog.html">Our Blog</a></li>
-                                                <li><a href="blog-details.html">Blog Details</a></li>
+                                                <li><a href="blog.php">Our Blog</a></li>
+                                                <li><a href="blog-details.php">Blog Details</a></li>
                                             </ul>
                                         </li>
                                        
@@ -51,7 +49,7 @@
                                     <ul class="list-wrap">
                                         <li class="search"><a href="javascript:void(0)"><i class="flaticon-loupe"></i></a></li>
                                         <li class="header-btn">
-                                            <a href="login.html" class="tg-btn-3 tg-svg">
+                                            <a href="login.php" class="tg-btn-3 tg-svg">
                                                 <div class="svg-icon" id="svg-2" data-svg-icon="assets/img/icons/shape02.svg"></div>
                                                 <i class="flaticon-edit"></i>
                                                 <span>Entrar</span>

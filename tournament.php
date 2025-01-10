@@ -21,9 +21,9 @@
     </button>
     <!-- Scroll-top-end-->
     <!-- header-area -->
-<?php
-    include './utils/header.php';
-?>
+    <?php
+        include './utils/header.php';
+    ?>
     <!-- main-area -->
     <main class="main--area">
         <!-- breadcrumb-area -->
@@ -37,7 +37,7 @@
                                 <nav aria-label="breadcrumb">
                                     <ol class="breadcrumb">
                                         <li class="breadcrumb-item"><a href="index.html">Odyssey</a></li>
-                                        <li class="breadcrumb-item active" aria-current="page">Asociados¬</li>
+                                        <li class="breadcrumb-item active" aria-current="page">PLANES</li>
                                     </ol>
                                 </nav>
                             </div>
@@ -59,8 +59,8 @@
                     <div class="row justify-content-center">
                         <div class="col-xl-6 col-lg-7 col-md-10">
                             <div class="section__title text-center mb-60">
-                                <span class="sub-title tg__animate-text">our tournament</span>
-                                <h3 class="title">play to earn games</h3>
+                                <span class="sub-title tg__animate-text">Unete a nuestra comunidad </span>
+                                <h3 class="title">Planes y Socios Elite</h3>
                             </div>
                         </div>
                     </div>
@@ -75,18 +75,18 @@
                                 </svg>
                                 <div class="tournament__box-price">
                                     <i class="fas fa-trophy"></i>
-                                    <span>25000</span>
+                                    <span>2 USD</span>
                                 </div>
                                 <div class="tournament__box-countdown">
                                     <div class="coming-time" data-countdown="2025/5/16"></div>
                                 </div>
                                 <div class="tournament__box-caption">
-                                    <span class="sub">TOURNAMENT</span>
-                                    <h4 class="title">of weekly</h4>
+                                    <span class="sub">PLAN</span>
+                                    <h4 class="title">Básico</h4>
                                 </div>
                                 <div class="tournament__box-prize">
                                     <i class="fas fa-trophy"></i>
-                                    <span>3 prize Places</span>
+                                    <span>2 USD</span>
                                 </div>
                                 <ul class="tournament__box-list list-wrap">
                                     <li>
@@ -94,8 +94,8 @@
                                             <div class="tournament__player-thumb">
                                                 <img src="assets/img/others/tournament01.jpg" alt="img">
                                             </div>
-                                            <h6 class="tournament__player-name">black ninja</h6>
-                                            <span class="tournament__player-price">$ 75000 <i class="fas fa-bolt"></i></span>
+                                            <h6 class="tournament__player-name">SERVIDOR 1</h6>
+                                            <span class="tournament__player-price">MIEMBRO <i class="fas fa-bolt"></i></span>
                                         </div>
                                     </li>
                                     <li>
@@ -103,8 +103,8 @@
                                             <div class="tournament__player-thumb">
                                                 <img src="assets/img/others/tournament02.jpg" alt="img">
                                             </div>
-                                            <h6 class="tournament__player-name">Foxtie Max</h6>
-                                            <span class="tournament__player-price">$ 65000 <i class="fas fa-bolt"></i></span>
+                                            <h6 class="tournament__player-name">SERVIDOR 2</h6>
+                                            <span class="tournament__player-price">MIEMBRO <i class="fas fa-bolt"></i></span>
                                         </div>
                                     </li>
                                     <li>
@@ -112,8 +112,8 @@
                                             <div class="tournament__player-thumb">
                                                 <img src="assets/img/others/tournament03.jpg" alt="img">
                                             </div>
-                                            <h6 class="tournament__player-name">Holam Doxe</h6>
-                                            <span class="tournament__player-price">$ 55000 <i class="fas fa-bolt"></i></span>
+                                            <h6 class="tournament__player-name">SERVIDOR 3</h6>
+                                            <span class="tournament__player-price">MIEMBRO <i class="fas fa-bolt"></i></span>
                                         </div>
                                     </li>
                                 </ul>
@@ -129,18 +129,18 @@
                                 </svg>
                                 <div class="tournament__box-price">
                                     <i class="fas fa-trophy"></i>
-                                    <span>50000</span>
+                                    <span>8 USD</span>
                                 </div>
                                 <div class="tournament__box-countdown">
                                     <div class="coming-time" data-countdown="2025/5/16"></div>
                                 </div>
                                 <div class="tournament__box-caption">
-                                    <span class="sub">TOURNAMENT</span>
-                                    <h4 class="title">Lucky card</h4>
+                                    <span class="sub">PLAN</span>
+                                    <h4 class="title">Elite</h4>
                                 </div>
                                 <div class="tournament__box-prize">
                                     <i class="fas fa-trophy"></i>
-                                    <span>10 prize Places</span>
+                                    <span>8 USD</span>
                                 </div>
                                 <ul class="tournament__box-list list-wrap">
                                     <li>
@@ -149,7 +149,7 @@
                                                 <img src="assets/img/others/tournament01.jpg" alt="img">
                                             </div>
                                             <h6 class="tournament__player-name">black ninja</h6>
-                                            <span class="tournament__player-price">$ 75000 <i class="fas fa-bolt"></i></span>
+                                            <span class="tournament__player-price">MIEMBRO <i class="fas fa-bolt"></i></span>
                                         </div>
                                     </li>
                                     <li>
@@ -158,7 +158,7 @@
                                                 <img src="assets/img/others/tournament02.jpg" alt="img">
                                             </div>
                                             <h6 class="tournament__player-name">Foxtie Max</h6>
-                                            <span class="tournament__player-price">$ 65000 <i class="fas fa-bolt"></i></span>
+                                            <span class="tournament__player-price">MIEMBRO <i class="fas fa-bolt"></i></span>
                                         </div>
                                     </li>
                                     <li>
@@ -167,7 +167,7 @@
                                                 <img src="assets/img/others/tournament03.jpg" alt="img">
                                             </div>
                                             <h6 class="tournament__player-name">Holam Doxe</h6>
-                                            <span class="tournament__player-price">$ 55000 <i class="fas fa-bolt"></i></span>
+                                            <span class="tournament__player-price">MIEMBRO<i class="fas fa-bolt"></i></span>
                                         </div>
                                     </li>
                                 </ul>
@@ -183,18 +183,18 @@
                                 </svg>
                                 <div class="tournament__box-price">
                                     <i class="fas fa-trophy"></i>
-                                    <span>75000</span>
+                                    <span>4 USD</span>
                                 </div>
                                 <div class="tournament__box-countdown">
                                     <div class="coming-time" data-countdown="2025/5/16"></div>
                                 </div>
                                 <div class="tournament__box-caption">
-                                    <span class="sub">TOURNAMENT</span>
-                                    <h4 class="title">of month</h4>
+                                    <span class="sub">PLAN</span>
+                                    <h4 class="title">Pro</h4>
                                 </div>
                                 <div class="tournament__box-prize">
                                     <i class="fas fa-trophy"></i>
-                                    <span>50 prize Places</span>
+                                    <span>4 USD</span>
                                 </div>
                                 <ul class="tournament__box-list list-wrap">
                                     <li>
@@ -202,8 +202,8 @@
                                             <div class="tournament__player-thumb">
                                                 <img src="assets/img/others/tournament01.jpg" alt="img">
                                             </div>
-                                            <h6 class="tournament__player-name">black ninja</h6>
-                                            <span class="tournament__player-price">$ 75000 <i class="fas fa-bolt"></i></span>
+                                            <h6 class="tournament__player-name">SERVIDOR 4</h6>
+                                            <span class="tournament__player-price">MIEMBRO <i class="fas fa-bolt"></i></span>
                                         </div>
                                     </li>
                                     <li>
@@ -211,8 +211,8 @@
                                             <div class="tournament__player-thumb">
                                                 <img src="assets/img/others/tournament02.jpg" alt="img">
                                             </div>
-                                            <h6 class="tournament__player-name">Foxtie Max</h6>
-                                            <span class="tournament__player-price">$ 65000 <i class="fas fa-bolt"></i></span>
+                                            <h6 class="tournament__player-name">SERVIDOR 5</h6>
+                                            <span class="tournament__player-price">MIEMBRO <i class="fas fa-bolt"></i></span>
                                         </div>
                                     </li>
                                     <li>
@@ -220,8 +220,8 @@
                                             <div class="tournament__player-thumb">
                                                 <img src="assets/img/others/tournament03.jpg" alt="img">
                                             </div>
-                                            <h6 class="tournament__player-name">Holam Doxe</h6>
-                                            <span class="tournament__player-price">$ 55000 <i class="fas fa-bolt"></i></span>
+                                            <h6 class="tournament__player-name">SERVIDOR 6</h6>
+                                            <span class="tournament__player-price">MIEMBRO <i class="fas fa-bolt"></i></span>
                                         </div>
                                     </li>
                                 </ul>
@@ -239,13 +239,13 @@
                     <div class="row align-items-end mb-60">
                         <div class="col-lg-8">
                             <div class="section__title text-center text-lg-start title-shape-none">
-                                <span class="sub-title tg__animate-text">tournament List</span>
-                                <h3 class="title">Active tournament</h3>
+                                <span class="sub-title tg__animate-text">Nuestros socios</span>
+                                <h3 class="title">Servidores en donde esta odissey VIP</h3>
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="section__title-link">
-                                <a href="tournament.html">EXPLORE MORE</a>
+                                <a href="tournament.html">Ver planes</a>
                             </div>
                         </div>
                     </div>
@@ -262,20 +262,20 @@
                                         </div>
                                         <div class="tournament__list-name">
                                             <h5 class="team-name">FoxTie Max</h5>
-                                            <span class="status">Online</span>
+                                            <span class="status">SERVIDOR</span>
                                         </div>
                                         <div class="tournament__list-prize">
-                                            <h6 class="title">Prize</h6>
+                                            <h6 class="title">SOCIO</h6>
                                             <i class="fas fa-trophy"></i>
-                                            <span>$75000</span>
+                                            <span>ELITE</span>
                                         </div>
                                         <div class="tournament__list-time">
-                                            <h6 class="title">Time</h6>
-                                            <i class="fas fa-clock"></i>
-                                            <span>10h : 15m</span>
+                                            <h6 class="title">IDIOMA</h6>
+                                            <i class="fas fa-trophy"></i>
+                                            <span>ESPAÑOL</span>
                                         </div>
                                         <div class="tournament__list-live">
-                                            <a href="https://www.twitch.tv/videos/1726788358" target="_blank">Live now <i class="far fa-play-circle"></i></a>
+                                            <a href="https://www.twitch.tv/videos/1726788358" target="_blank">Ingresar <i class="far fa-play-circle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -289,20 +289,20 @@
                                         </div>
                                         <div class="tournament__list-name">
                                             <h5 class="team-name">Hatlax TM.</h5>
-                                            <span class="status">Online</span>
+                                            <span class="status">SERVIDOR</span>
                                         </div>
                                         <div class="tournament__list-prize">
-                                            <h6 class="title">Prize</h6>
+                                            <h6 class="title">SOCIO</h6>
                                             <i class="fas fa-trophy"></i>
-                                            <span>$85000</span>
+                                            <span>ELITE</span>
                                         </div>
                                         <div class="tournament__list-time">
-                                            <h6 class="title">Time</h6>
-                                            <i class="fas fa-clock"></i>
-                                            <span>12h : 10m</span>
+                                            <h6 class="title">IDIOMA</h6>
+                                            <i class="fas fa-trophy"></i>
+                                            <span>ESPAÑOL</span>
                                         </div>
                                         <div class="tournament__list-live">
-                                            <a href="https://www.twitch.tv/videos/1726788358" target="_blank">Live now <i class="far fa-play-circle"></i></a>
+                                            <a href="https://www.twitch.tv/videos/1726788358" target="_blank">Ingresar <i class="far fa-play-circle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -316,20 +316,20 @@
                                         </div>
                                         <div class="tournament__list-name">
                                             <h5 class="team-name">Spartan iv</h5>
-                                            <span class="status">Online</span>
+                                            <span class="status">Servidor</span>
                                         </div>
                                         <div class="tournament__list-prize">
-                                            <h6 class="title">Prize</h6>
+                                            <h6 class="title">SOCIO</h6>
                                             <i class="fas fa-trophy"></i>
-                                            <span>$45000</span>
+                                            <span>ELITE</span>
                                         </div>
                                         <div class="tournament__list-time">
-                                            <h6 class="title">Time</h6>
-                                            <i class="fas fa-clock"></i>
-                                            <span>10h : 15m</span>
+                                            <h6 class="title">IDIOMA</h6>
+                                            <i class="fas fa-trophy"></i>
+                                            <span>ESPAÑOL</span>
                                         </div>
                                         <div class="tournament__list-live">
-                                            <a href="https://www.twitch.tv/videos/1726788358" target="_blank">Live now <i class="far fa-play-circle"></i></a>
+                                            <a href="https://www.twitch.tv/videos/1726788358" target="_blank">Ingresar <i class="far fa-play-circle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -343,85 +343,9 @@
     </main>
     <!-- main-area-end -->
     <!-- footer-start -->
-    <footer class="footer-style-one">
-        <div class="footer__top-wrap">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-4 col-lg-5 col-md-7">
-                        <div class="footer-widget">
-                            <div class="footer-logo logo">
-                                <a href="index.html"><img src="assets/img/logo/logo.png" alt="Logo"></a>
-                            </div>
-                            <div class="footer-text">
-                                <p class="desc">Lorem ipsum dolor sitamet consectur adipiscing Duis esollici tudin augue euismod. Nulla ullam dolor sitamet consectetur</p>
-                                <p class="social-title">Active <span>With Us <i class="fas fa-angle-double-right"></i></span></p>
-                                <div class="footer-social">
-                                    <a href="#"><img src="assets/img/icons/social_icon01.png" alt="iocn"></a>
-                                    <a href="#"><img src="assets/img/icons/social_icon02.png" alt="iocn"></a>
-                                    <a href="#"><img src="assets/img/icons/social_icon03.png" alt="iocn"></a>
-                                    <a href="#"><img src="assets/img/icons/social_icon04.png" alt="iocn"></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-lg-3 col-md-5 col-sm-6">
-                        <div class="footer-widget widget_nav_menu">
-                            <h4 class="fw-title">quick link</h4>
-                            <ul class="list-wrap menu">
-                                <li><a href="#">Gaming</a></li>
-                                <li><a href="#">Product</a></li>
-                                <li><a href="#">All NFTs</a></li>
-                                <li><a href="#">Social Network</a></li>
-                                <li><a href="#">Domain Names</a></li>
-                                <li><a href="#">Collectibles</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-lg-3 col-md-5 col-sm-6">
-                        <div class="footer-widget widget_nav_menu">
-                            <h4 class="fw-title">Supports</h4>
-                            <ul class="list-wrap menu">
-                                <li><a href="#">Setting & Privacy</a></li>
-                                <li><a href="#">Help & Support</a></li>
-                                <li><a href="#">Live Auctions</a></li>
-                                <li><a href="#">Item Details</a></li>
-                                <li><a href="#">24/7 Supports</a></li>
-                                <li><a href="#">Our News</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-5 col-md-7">
-                        <div class="footer-widget">
-                            <h4 class="fw-title">Newsletter</h4>
-                            <div class="footer-newsletter">
-                                <p>Subscribe our newsletter to get our latest update & newsconsectetur</p>
-                                <form action="#" class="footer-newsletter-form">
-                                    <input type="email" placeholder="Your email address">
-                                    <button type="submit"><i class="flaticon-paper-plane"></i></button>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="copyright__wrap">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-md-7">
-                        <div class="copyright__text">
-                            <p>Copyright © 2024 - All Rights Reserved By <span>Odyssey</span></p>
-                        </div>
-                    </div>
-                    <div class="col-md-5">
-                        <div class="copyright__card text-center text-md-end">
-                            <img src="assets/img/others/payment_card.png" alt="img">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+    <?php
+        include './utils/footer.php';
+    ?>
     <!-- footer-start-end -->
     <!-- JS here -->
     <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
