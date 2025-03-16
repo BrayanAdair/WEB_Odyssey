@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Odyssey - El mejor bot de discord</title>
-    <meta name="description" content="Y tu mejor opcion">
+    <title>MYKD - eSports and Gaming NFT Template</title>
+    <meta name="description" content="eSports and Gaming NFT Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico in the root directory -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
@@ -89,12 +89,12 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="grand__final">
-                            <h6 class="grand__final-date">Enero 18, 2025 | 9:50 am</h6>
+                            <h6 class="grand__final-date">Octube 18, 2024 | 9:50 am</h6>
                             <span class="grand__final-place">Ver Detalles de la update</span>
                             <div class="grand__final-button d-flex">
                                 <a href="tournament-details.html" class="tg-btn-3 tg-svg mx-auto">
                                     <div class="svg-icon" id="svg-5" data-svg-icon="assets/img/icons/shape.svg"></div>
-                                    <span>Leer más</span>
+                                    <span>read more</span>
                                 </a>
                             </div>
                         </div>
@@ -119,8 +119,8 @@
                         <div class="about__funFact-trophy">
                             <div class="icon"><img src="assets/img/icons/trophy.png" alt="trophy"></div>
                             <div class="content">
-                                <h5>Oddysey Bot</h5>
-                                <span>Roleplay</span>
+                                <h5>Tournament</h5>
+                                <span>Development</span>
                             </div>
                         </div>
                     </div>
@@ -200,8 +200,8 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-6 col-lg-7 col-md-10">
                         <div class="section__title text-center mb-60">
-                            <span class="sub-title tg__animate-text">Unete a nuestras redes sociales</span>
-                            <h3 class="title">stay connected</h3>
+                            <span class="sub-title tg__animate-text">Contáctanos</span>
+                            <h3 class="title">Redes Oficiales</h3>
                         </div>
                     </div>
                 </div>
@@ -251,7 +251,7 @@
                             </a>
                         </div>
                     </div>
-                  
+                
                 </div>
             </div>
         </section>
@@ -263,7 +263,7 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="brand__title text-center">
-                            <h2 class="title">Nuestras mejores Alianzas</h2>
+                            <h2 class="title">Mejor confiado por servidores como</h2>
                         </div>
                     </div>
                 </div>

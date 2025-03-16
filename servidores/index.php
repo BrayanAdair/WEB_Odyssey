@@ -7,12 +7,12 @@
     <meta name="description" content="eSports and Gaming NFT Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico in the root directory -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="../assets/img/favicon.png">
     <!-- CSS here -->
-    <link rel="stylesheet" href="assets/css/plugins.css">
-    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="../assets/css/plugins.css">
+    <link rel="stylesheet" href="../assets/css/main.css">
     <!-- Page-Revealer -->
-    <script src="assets/js/tg-page-head.js"></script>
+    <script src="../assets/js/tg-page-head.js"></script>
 </head>
 <body>
     <!-- Scroll-top -->
@@ -22,12 +22,12 @@
     <!-- Scroll-top-end-->
     <!-- header-area -->
 <?php
-    include './utils/header.php';
+    include '../utils/header.php';
 ?>
     <!-- main-area -->
     <main class="main--area">
         <!-- breadcrumb-area -->
-        <section class="breadcrumb-area" data-background="assets/img/bg/breadcrumb_bg03.jpg">
+        <section class="breadcrumb-area" data-background="../assets/img/bg/breadcrumb_bg03.jpg">
             <div class="container">
                 <div class="breadcrumb__wrapper">
                     <div class="row">
@@ -44,7 +44,7 @@
                         </div>
                         <div class="col-xl-6 col-lg-5 position-relative d-none d-lg-block">
                             <div class="breadcrumb__img">
-                                <img src="assets/img/others/breadcrumb_img03.png" alt="img">
+                                <img src="../assets/img/others/breadcrumb_img03.png" alt="img">
                             </div>
                         </div>
                     </div>
@@ -92,7 +92,7 @@
                                     <li>
                                         <div class="tournament__box-list-item">
                                             <div class="tournament__player-thumb">
-                                                <img src="assets/img/others/tournament01.jpg" alt="img">
+                                                <img src="../assets/img/others/tournament01.jpg" alt="img">
                                             </div>
                                             <h6 class="tournament__player-name">black ninja</h6>
                                             <span class="tournament__player-price">$ 75000 <i class="fas fa-bolt"></i></span>
@@ -101,7 +101,7 @@
                                     <li>
                                         <div class="tournament__box-list-item">
                                             <div class="tournament__player-thumb">
-                                                <img src="assets/img/others/tournament02.jpg" alt="img">
+                                                <img src="../assets/img/others/tournament02.jpg" alt="img">
                                             </div>
                                             <h6 class="tournament__player-name">Foxtie Max</h6>
                                             <span class="tournament__player-price">$ 65000 <i class="fas fa-bolt"></i></span>
@@ -110,7 +110,7 @@
                                     <li>
                                         <div class="tournament__box-list-item">
                                             <div class="tournament__player-thumb">
-                                                <img src="assets/img/others/tournament03.jpg" alt="img">
+                                                <img src="../assets/img/others/tournament03.jpg" alt="img">
                                             </div>
                                             <h6 class="tournament__player-name">Holam Doxe</h6>
                                             <span class="tournament__player-price">$ 55000 <i class="fas fa-bolt"></i></span>
@@ -146,7 +146,7 @@
                                     <li>
                                         <div class="tournament__box-list-item">
                                             <div class="tournament__player-thumb">
-                                                <img src="assets/img/others/tournament01.jpg" alt="img">
+                                                <img src="../assets/img/others/tournament01.jpg" alt="img">
                                             </div>
                                             <h6 class="tournament__player-name">black ninja</h6>
                                             <span class="tournament__player-price">$ 75000 <i class="fas fa-bolt"></i></span>
@@ -155,7 +155,7 @@
                                     <li>
                                         <div class="tournament__box-list-item">
                                             <div class="tournament__player-thumb">
-                                                <img src="assets/img/others/tournament02.jpg" alt="img">
+                                                <img src="../assets/img/others/tournament02.jpg" alt="img">
                                             </div>
                                             <h6 class="tournament__player-name">Foxtie Max</h6>
                                             <span class="tournament__player-price">$ 65000 <i class="fas fa-bolt"></i></span>
@@ -164,7 +164,7 @@
                                     <li>
                                         <div class="tournament__box-list-item">
                                             <div class="tournament__player-thumb">
-                                                <img src="assets/img/others/tournament03.jpg" alt="img">
+                                                <img src="../assets/img/others/tournament03.jpg" alt="img">
                                             </div>
                                             <h6 class="tournament__player-name">Holam Doxe</h6>
                                             <span class="tournament__player-price">$ 55000 <i class="fas fa-bolt"></i></span>
@@ -200,7 +200,7 @@
                                     <li>
                                         <div class="tournament__box-list-item">
                                             <div class="tournament__player-thumb">
-                                                <img src="assets/img/others/tournament01.jpg" alt="img">
+                                                <img src="../assets/img/others/tournament01.jpg" alt="img">
                                             </div>
                                             <h6 class="tournament__player-name">black ninja</h6>
                                             <span class="tournament__player-price">$ 75000 <i class="fas fa-bolt"></i></span>
@@ -209,7 +209,7 @@
                                     <li>
                                         <div class="tournament__box-list-item">
                                             <div class="tournament__player-thumb">
-                                                <img src="assets/img/others/tournament02.jpg" alt="img">
+                                                <img src="../assets/img/others/tournament02.jpg" alt="img">
                                             </div>
                                             <h6 class="tournament__player-name">Foxtie Max</h6>
                                             <span class="tournament__player-price">$ 65000 <i class="fas fa-bolt"></i></span>
@@ -218,7 +218,7 @@
                                     <li>
                                         <div class="tournament__box-list-item">
                                             <div class="tournament__player-thumb">
-                                                <img src="assets/img/others/tournament03.jpg" alt="img">
+                                                <img src="../assets/img/others/tournament03.jpg" alt="img">
                                             </div>
                                             <h6 class="tournament__player-name">Holam Doxe</h6>
                                             <span class="tournament__player-price">$ 55000 <i class="fas fa-bolt"></i></span>
@@ -233,7 +233,7 @@
         </section>
         <!-- tournament-area-end -->
         <!-- tournament-list-area -->
-        <section class="tournament__list-area section-pb-120 section-pt-120" data-background="assets/img/bg/tournament_bg.jpg">
+        <section class="tournament__list-area section-pb-120 section-pt-120" data-background="../assets/img/bg/tournament_bg.jpg">
             <div class="container">
                 <div class="tournament__wrapper">
                     <div class="row align-items-end mb-60">
@@ -258,7 +258,7 @@
                                     </svg>
                                     <div class="tournament__list-content">
                                         <div class="tournament__list-thumb">
-                                            <a href="tournament-details.html"><img src="assets/img/others/tournament_thumb01.png" alt="thumb"></a>
+                                            <a href="tournament-details.html"><img src="../assets/img/others/tournament_thumb01.png" alt="thumb"></a>
                                         </div>
                                         <div class="tournament__list-name">
                                             <h5 class="team-name">FoxTie Max</h5>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="tournament__list-content">
                                         <div class="tournament__list-thumb">
-                                            <a href="tournament-details.html"><img src="assets/img/others/tournament_thumb02.png" alt="thumb"></a>
+                                            <a href="tournament-details.html"><img src="../assets/img/others/tournament_thumb02.png" alt="thumb"></a>
                                         </div>
                                         <div class="tournament__list-name">
                                             <h5 class="team-name">Hatlax TM.</h5>
@@ -312,7 +312,7 @@
                                     </svg>
                                     <div class="tournament__list-content">
                                         <div class="tournament__list-thumb">
-                                            <a href="tournament-details.html"><img src="assets/img/others/tournament_thumb03.png" alt="thumb"></a>
+                                            <a href="tournament-details.html"><img src="../assets/img/others/tournament_thumb03.png" alt="thumb"></a>
                                         </div>
                                         <div class="tournament__list-name">
                                             <h5 class="team-name">Spartan iv</h5>
@@ -355,7 +355,7 @@
                     </div>
                     <div class="col-md-5">
                         <div class="copyright__card text-center text-md-end">
-                            <img src="assets/img/others/payment_card.png" alt="img">
+                            <img src="../assets/img/others/payment_card.png" alt="img">
                         </div>
                     </div>
                 </div>
@@ -364,9 +364,9 @@
     </footer>
     <!-- footer-start-end -->
     <!-- JS here -->
-    <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
-    <script src="assets/js/plugins.js"></script>
-    <script src="assets/js/ajax-form.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="../assets/js/vendor/jquery-3.6.0.min.js"></script>
+    <script src="../assets/js/plugins.js"></script>
+    <script src="../assets/js/ajax-form.js"></script>
+    <script src="../assets/js/main.js"></script>
 </body>
 </html>

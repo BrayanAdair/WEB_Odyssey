@@ -7,14 +7,14 @@
     <meta name="description" content="eSports and Gaming NFT Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico in the root directory -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="../assets/img/favicon.png">
 
     <!-- CSS here -->
-    <link rel="stylesheet" href="assets/css/plugins.css">
-    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="../assets/css/plugins.css">
+    <link rel="stylesheet" href="../assets/css/main.css">
 
     <!-- Page-Revealer -->
-    <script src="assets/js/tg-page-head.js"></script>
+    <script src="../assets/js/tg-page-head.js"></script>
 </head>
 
 <body>
@@ -28,7 +28,7 @@
 
     <!-- header-area -->
     <?php
-    include './utils/header.php';
+    include '../utils/header.php';
     ?>
     <!-- header-area-end -->
 
@@ -38,24 +38,24 @@
     <main class="main--area">
 
         <!-- breadcrumb-area -->
-        <section class="breadcrumb-area" data-background="assets/img/bg/breadcrumb_bg01.jpg">
+        <section class="breadcrumb-area" data-background="../assets/img/bg/breadcrumb_bg01.jpg">
             <div class="container">
                 <div class="breadcrumb__wrapper">
                     <div class="row">
                         <div class="col-xl-6 col-lg-7">
                             <div class="breadcrumb__content">
-                                <h2 class="title">ABOUT US</h2>
+                                <h2 class="title">Comandos</h2>
                                 <nav aria-label="breadcrumb">
                                     <ol class="breadcrumb">
-                                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                                        <li class="breadcrumb-item active" aria-current="page">ABOUT US</li>
+                                        <li class="breadcrumb-item"><a href="index.html">Odyssey Bot</a></li>
+                                        <li class="breadcrumb-item active" aria-current="page">Comandos</li>
                                     </ol>
                                 </nav>
                             </div>
                         </div>
                         <div class="col-xl-6 col-lg-5 position-relative d-none d-lg-block">
                             <div class="breadcrumb__img">
-                                <img src="assets/img/others/breadcrumb_img01.png" alt="img">
+                                <img src="../assets/img/others/breadcrumb_img01.png" alt="img">
                             </div>
                         </div>
                     </div>
@@ -77,7 +77,7 @@
                                 <i>gam<b>ing</b></i>
                             </h2>
                             <div class="about__content-circle">
-                                <img src="assets/img/icons/circle.svg" alt="img">
+                                <img src="../assets/img/icons/circle.svg" alt="img">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" version="1.1">
                                     <path id="textPath" d="M 0,75 a 75,75 0 1,1 0,1 z"></path>
                                     <text>
@@ -89,8 +89,8 @@
                     </div>
                     <div class="col-xl-8">
                         <div class="about__three-images">
-                            <img src="assets/img/others/mask_img01.jpg" alt="img" class="left">
-                            <img src="assets/img/others/mask_img02.jpg" alt="img" class="right">
+                            <img src="../assets/img/others/mask_img01.jpg" alt="img" class="left">
+                            <img src="../assets/img/others/mask_img02.jpg" alt="img" class="right">
                             <div class="about__dots">
                                 <svg width="109" height="35" viewBox="0 0 109 35" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M9 0H0V7H9V0Z" fill="currentcolor" />
@@ -179,25 +179,25 @@
                     <div class="col-lg-6">
                         <div class="services__images">
                             <div class="services__images-item active">
-                                <img src="assets/img/others/services_img01.jpg" alt="img">
+                                <img src="../assets/img/others/services_img01.jpg" alt="img">
                                 <a href="services-details.html" class="services__link">
                                     <i class="flaticon-next"></i>
                                 </a>
                             </div>
                             <div class="services__images-item">
-                                <img src="assets/img/others/services_img02.jpg" alt="img">
+                                <img src="../assets/img/others/services_img02.jpg" alt="img">
                                 <a href="services-details.html" class="services__link">
                                     <i class="flaticon-next"></i>
                                 </a>
                             </div>
                             <div class="services__images-item">
-                                <img src="assets/img/others/services_img03.jpg" alt="img">
+                                <img src="../assets/img/others/services_img03.jpg" alt="img">
                                 <a href="services-details.html" class="services__link">
                                     <i class="flaticon-next"></i>
                                 </a>
                             </div>
                             <div class="services__images-item">
-                                <img src="assets/img/others/services_img04.jpg" alt="img">
+                                <img src="../assets/img/others/services_img04.jpg" alt="img">
                                 <a href="services-details.html" class="services__link">
                                     <i class="flaticon-next"></i>
                                 </a>
@@ -210,7 +210,7 @@
         <!-- services-area-end -->
 
         <!-- team-area -->
-        <section class="team__area team-bg section-pt-130 section-pb-100" data-background="assets/img/bg/team_bg.jpg">
+        <section class="team__area team-bg section-pt-130 section-pb-100" data-background="../assets/img/bg/team_bg.jpg">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-xl-6 col-lg-7 col-md-10">
@@ -224,7 +224,7 @@
                     <div class="col-xl-3 col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".2s">
                         <div class="team__item">
                             <div class="team__thumb">
-                                <a href="team-details.html"><img src="assets/img/team/team01.png" alt="img"></a>
+                                <a href="team-details.html"><img src="../assets/img/team/team01.png" alt="img"></a>
                             </div>
                             <div class="team__content">
                                 <h4 class="name"><a href="team-details.html">killer master</a></h4>
@@ -235,7 +235,7 @@
                     <div class="col-xl-3 col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".4s">
                         <div class="team__item">
                             <div class="team__thumb">
-                                <a href="team-details.html"><img src="assets/img/team/team02.png" alt="img"></a>
+                                <a href="team-details.html"><img src="../assets/img/team/team02.png" alt="img"></a>
                             </div>
                             <div class="team__content">
                                 <h4 class="name"><a href="team-details.html">tanu mark</a></h4>
@@ -246,7 +246,7 @@
                     <div class="col-xl-3 col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".6s">
                         <div class="team__item">
                             <div class="team__thumb">
-                                <a href="team-details.html"><img src="assets/img/team/team03.png" alt="img"></a>
+                                <a href="team-details.html"><img src="../assets/img/team/team03.png" alt="img"></a>
                             </div>
                             <div class="team__content">
                                 <h4 class="name"><a href="team-details.html">Thompson Scot</a></h4>
@@ -257,7 +257,7 @@
                     <div class="col-xl-3 col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".8s">
                         <div class="team__item">
                             <div class="team__thumb">
-                                <a href="team-details.html"><img src="assets/img/team/team04.png" alt="img"></a>
+                                <a href="team-details.html"><img src="../assets/img/team/team04.png" alt="img"></a>
                             </div>
                             <div class="team__content">
                                 <h4 class="name"><a href="team-details.html">Shakh Danial</a></h4>
@@ -282,16 +282,16 @@
                     <div class="col-xl-4 col-lg-5 col-md-7">
                         <div class="footer-widget">
                             <div class="footer-logo logo">
-                                <a href="index.html"><img src="assets/img/logo/logo.png" alt="Logo"></a>
+                                <a href="index.html"><img src="../assets/img/logo/logo.png" alt="Logo"></a>
                             </div>
                             <div class="footer-text">
                                 <p class="desc">Lorem ipsum dolor sitamet consectur adipiscing Duis esollici tudin augue euismod. Nulla ullam dolor sitamet consectetur</p>
                                 <p class="social-title">Active <span>With Us <i class="fas fa-angle-double-right"></i></span></p>
                                 <div class="footer-social">
-                                    <a href="#"><img src="assets/img/icons/social_icon01.png" alt="iocn"></a>
-                                    <a href="#"><img src="assets/img/icons/social_icon02.png" alt="iocn"></a>
-                                    <a href="#"><img src="assets/img/icons/social_icon03.png" alt="iocn"></a>
-                                    <a href="#"><img src="assets/img/icons/social_icon04.png" alt="iocn"></a>
+                                    <a href="#"><img src="../assets/img/icons/social_icon01.png" alt="iocn"></a>
+                                    <a href="#"><img src="../assets/img/icons/social_icon02.png" alt="iocn"></a>
+                                    <a href="#"><img src="../assets/img/icons/social_icon03.png" alt="iocn"></a>
+                                    <a href="#"><img src="../assets/img/icons/social_icon04.png" alt="iocn"></a>
                                 </div>
                             </div>
                         </div>
@@ -347,7 +347,7 @@
                     </div>
                     <div class="col-md-5">
                         <div class="copyright__card text-center text-md-end">
-                            <img src="assets/img/others/payment_card.png" alt="img">
+                            <img src="../assets/img/others/payment_card.png" alt="img">
                         </div>
                     </div>
                 </div>
@@ -359,10 +359,10 @@
 
 
     <!-- JS here -->
-    <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
-    <script src="assets/js/plugins.js"></script>
-    <script src="assets/js/ajax-form.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="./assets/js/vendor/jquery-3.6.0.min.js"></script>
+    <script src="./assets/js/plugins.js"></script>
+    <script src="./assets/js/ajax-form.js"></script>
+    <script src="./assets/js/main.js"></script>
 </body>
 
 </html>

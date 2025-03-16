@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="zxx">
+<html class="no-js" lang="en">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -7,14 +7,14 @@
     <meta name="description" content="eSports and Gaming NFT Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico in the root directory -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="../assets/img/favicon.png">
 
     <!-- CSS here -->
-    <link rel="stylesheet" href="assets/css/plugins.css">
-    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="../assets/css/plugins.css">
+    <link rel="stylesheet" href="../assets/css/main.css">
 
     <!-- Page-Revealer -->
-    <script src="assets/js/tg-page-head.js"></script>
+    <script src="../assets/js/tg-page-head.js"></script>
 </head>
 
 <body>
@@ -36,7 +36,7 @@
                         <div class="tgmenu__wrap">
                             <nav class="tgmenu__nav">
                                 <div class="logo">
-                                    <a href="index.html"><img src="assets/img/logo/logo.png" alt="Logo"></a>
+                                    <a href="index.html"><img src="../assets/img/logo/logo.png" alt="Logo"></a>
                                 </div>
                                 <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-xl-flex">
                                     <ul class="navigation">
@@ -47,13 +47,13 @@
                                             </ul>
                                         </li>
                                         <li><a href="about-us.html">ABOUT US</a></li>
-                                        <li class="active menu-item-has-children"><a href="javascript:void(0)">TOURNAMENT</a>
+                                        <li class="menu-item-has-children"><a href="javascript:void(0)">TOURNAMENT</a>
                                             <ul class="sub-menu">
                                                 <li><a href="tournament.html">TOURNAMENT</a></li>
-                                                <li class="active"><a href="tournament-details.html">TOURNAMENT Single</a></li>
+                                                <li><a href="tournament-details.html">TOURNAMENT Single</a></li>
                                             </ul>
                                         </li>
-                                        <li class="menu-item-has-children"><a href="javascript:void(0)">PAGES</a>
+                                        <li class="active menu-item-has-children"><a href="javascript:void(0)">PAGES</a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item-has-children"><a href="javascript:void(0)">Gaming Shop</a>
                                                     <ul class="sub-menu">
@@ -67,7 +67,7 @@
                                                 <li><a href="services-details.html">Services Details</a></li>
                                                 <li><a href="team-details.html">Player Details</a></li>
                                                 <li><a href="login.html">Login</a></li>
-                                                <li><a href="sign-up.html">Sign up</a></li>
+                                                <li class="active"><a href="sign-up.html">Sign up</a></li>
                                                 <li><a href="reset-password.html">Forgot Password</a></li>
                                                 <li><a href="404.html">404 Page</a></li>
                                             </ul>
@@ -114,7 +114,7 @@
             <nav class="tgmobile__menu-box">
                 <div class="close-btn"><i class="flaticon-swords-in-cross-arrangement"></i></div>
                 <div class="nav-logo">
-                    <a href="index.html"><img src="assets/img/logo/logo.png" alt="Logo"></a>
+                    <a href="index.html"><img src="../assets/img/logo/logo.png" alt="Logo"></a>
                 </div>
                 <div class="tgmobile__search">
                     <form action="#">
@@ -174,7 +174,7 @@
             <div class="offCanvas__body">
                 <div class="offCanvas__top">
                     <div class="offCanvas__logo logo">
-                        <a href="index.html"><img src="assets/img/logo/logo.png" alt="Logo"></a>
+                        <a href="index.html"><img src="../assets/img/logo/logo.png" alt="Logo"></a>
                     </div>
                     <div class="offCanvas__toggle">
                         <i class="flaticon-swords-in-cross-arrangement"></i>
@@ -202,9 +202,7 @@
                         <li>
                             <a href="#">
                                 <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path
-                                        d="M8.33192 5.92804L13.5438 0H12.3087L7.78328 5.14724L4.16883 0H0L5.46575 7.78353L0 14H1.2351L6.01407 8.56431L9.83119 14H14L8.33192 5.92804ZM6.64027 7.85211L6.08648 7.07704L1.68013 0.909771H3.57718L7.13316 5.88696L7.68694 6.66202L12.3093 13.1316H10.4123L6.64027 7.85211Z"
-                                        fill="currentColor" />
+                                    <path d="M8.33192 5.92804L13.5438 0H12.3087L7.78328 5.14724L4.16883 0H0L5.46575 7.78353L0 14H1.2351L6.01407 8.56431L9.83119 14H14L8.33192 5.92804ZM6.64027 7.85211L6.08648 7.07704L1.68013 0.909771H3.57718L7.13316 5.88696L7.68694 6.66202L12.3093 13.1316H10.4123L6.64027 7.85211Z" fill="currentColor" />
                                 </svg>
                             </a>
                         </li>
@@ -230,19 +228,24 @@
     <main class="main--area">
 
         <!-- breadcrumb-area -->
-        <section class="breadcrumb-area breadcrumb__hide-img" data-background="assets/img/bg/breadcrumb_bg01.jpg">
+        <section class="breadcrumb-area" data-background="../assets/img/bg/breadcrumb_bg01.jpg">
             <div class="container">
                 <div class="breadcrumb__wrapper">
                     <div class="row">
-                        <div class="col-12">
+                        <div class="col-xl-6 col-lg-7">
                             <div class="breadcrumb__content">
-                                <h2 class="title">Tournament Details</h2>
+                                <h2 class="title">Crea una cuenta</h2>
                                 <nav aria-label="breadcrumb">
                                     <ol class="breadcrumb">
-                                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                                        <li class="breadcrumb-item active" aria-current="page">Tournament Details</li>
+                                        <li class="breadcrumb-item"><a href="index.html">Odyssey Bot</a></li>
+                                        <li class="breadcrumb-item active" aria-current="page">PROXIMAMENTE</li>
                                     </ol>
                                 </nav>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-5 position-relative d-none d-lg-block">
+                            <div class="breadcrumb__img">
+                                <img src="../assets/img/others/breadcrumb_img02.png" alt="img">
                             </div>
                         </div>
                     </div>
@@ -251,148 +254,66 @@
         </section>
         <!-- breadcrumb-area-end -->
 
-        <!-- tournament-details-area -->
-        <section class="tournament__details-area">
+        <!-- signup-area -->
+        <section class="signup__area team-bg section-pt-120 section-pb-120" data-background="../assets/img/bg/team_bg.jpg">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="blog-post-wrapper">
-                        <div class="tournament__details-content">
-                            <h2 class="title">zombie land TOURNAMENT max</h2>
-                            <div class="blog-post-meta">
-                                <ul class="list-wrap">
-                                    <li>By<a href="#">Admin</a></li>
-                                    <li><i class="far fa-calendar-alt"></i> Aug 16, 2024</li>
-                                    <li><i class="far fa-comments"></i><a href="#">No comments</a></li>
-                                </ul>
+                    <div class="col-xl-6 col-lg-8">
+                        <div class="singUp-wrap">
+                            <h2 class="title text-center">Crea una cuenta</h2>
+                            <p>Hola, te recordamos que de momento nuestro dashboard es solo para staff, estamos trabajando para todos puedan entrar a nuestra dash!</p>
+                            <div class="account__social">
+                                <a href="#" class="account__social-btn">
+                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M20.16 12.1932C20.16 11.5905 20.1059 11.011 20.0055 10.4546H12V13.7425H16.5746C16.3775 14.8051 15.7786 15.7053 14.8784 16.308V18.4407H17.6255C19.2327 16.961 20.16 14.7819 20.16 12.1932Z" fill="#4285F4" />
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0002 20.5C14.2952 20.5 16.2193 19.7389 17.6257 18.4407L14.8786 16.3079C14.1175 16.8179 13.1439 17.1193 12.0002 17.1193C9.78635 17.1193 7.91248 15.6241 7.24407 13.615H4.4043V15.8173C5.80294 18.5952 8.67749 20.5 12.0002 20.5Z" fill="#34A853" />
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M7.24387 13.6151C7.07387 13.1051 6.97728 12.5604 6.97728 12.0001C6.97728 11.4399 7.07387 10.8951 7.24387 10.3851V8.18286H4.40409C3.82841 9.33036 3.5 10.6285 3.5 12.0001C3.5 13.3717 3.82841 14.6699 4.40409 15.8174L7.24387 13.6151Z" fill="#FBBC05" />
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0002 6.88069C13.2482 6.88069 14.3686 7.30955 15.2495 8.15183L17.6875 5.71387C16.2155 4.34227 14.2914 3.5 12.0002 3.5C8.67748 3.5 5.80294 5.40478 4.4043 8.18273L7.24407 10.385C7.91248 8.37592 9.78635 6.88069 12.0002 6.88069Z" fill="#EA4335" />
+                                    </svg>
+                                     ( proximanente )
+                                </a>
                             </div>
-                            <p>Excepteur sint occaecat atat non proident, sunt in culpa qui officia deserunt mollit anim id est labor umLor em ipsum dolor amet consteur adiscing Duis elentum solliciin is yaugue euismods Nulla ullaorper. Ipsum is simply dummy text of  printing and typeetting industry. Lorem Ipsum has been the industry's standsaard sipiscing Duis elementum solliciin. Duis aute irure dolor in repderit in voluptate velit esse cillum dolorliq commodo consequat.</p>
-                            <blockquote>
-                                <p>Duis elentum solliciin is yaugue euismods Nulla ullaorper. Ipsum is simply dummy text of printing and typeetting industry.</p>
-                            </blockquote>
-                            <p>Axcepteur sint occaecat atat non proident, sunt in culpa qui officia deserunt mollit anim id est labor umLor em ipsum dolor amet, consteur adiscing Duis elentum solliciin is yaugue euismods Nulla ullaorper. Ipsum is simply dummy text of  printing and typeetting industry. Lorem Ipsum has been the industry's standsaard sipiscing Duis elementum.</p>
-                            <div class="tournament__details-video position-relative">
-                                <img src="assets/img/blog/blog_post03.jpg" alt="img">
-                                <a href="https://www.youtube.com/watch?v=_SAlU-hu8M0" class="popup-video"><i class="flaticon-play"></i></a>
+                            <div class="account__divider">
+                                <span>Crea tus credenciales</span>
                             </div>
-                            <p>Axcepteur sint occaecat atat non proident, sunt in culpa qui officia deserunt mollit anim id est labor umLor em ipsum dolor amet, consteur adiscing Duis elentum solliciin is yaugue euismods Nulla ullaorper. Ipsum is simply dummy text of printing.</p>
-                            <div class="tournament__details-form">
-                                <h4 class="tournament__details-form-title">join nft games android</h4>
-                                <p>Simply dummy text of printing and typeetting industry been the industry's</p>
-                                <form action="#">
-                                    <input type="text" placeholder="Name *">
-                                    <input type="text" placeholder="Player ID *" required>
-                                    <input type="email" placeholder="Email *" required>
-                                    <button class="tournament__details-form-btn">Join Now</button>
-                                </form>
-                            </div>
-                            <div class="blog-details-bottom">
-                                <div class="row">
-                                    <div class="col-xl-6 col-md-7">
-                                        <div class="tg-post-tags">
-                                            <h5 class="tags-title">tags :</h5>
-                                            <ul class="list-wrap d-flex flex-wrap align-items-center m-0">
-                                                <li><a href="#">Esports</a>,</li>
-                                                <li><a href="#">Fantasy</a>,</li>
-                                                <li><a href="#">game</a></li>
-                                            </ul>
+                            <form action="#" class="account__form">
+                                <div class="row gutter-20">
+                                    <div class="col-md-6">
+                                        <div class="form-grp">
+                                            <label for="fast-name">Apellido</label>
+                                            <input type="text" id="fast-name" placeholder="apellido">
                                         </div>
                                     </div>
-                                    <div class="col-xl-6 col-md-5">
-                                        <div class="blog-post-share justify-content-start justify-content-md-end">
-                                            <h5 class="share">share :</h5>
-                                            <ul class="list-wrap">
-                                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                <li>
-                                                    <a href="#">
-                                                        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                            <path
-                                                                d="M8.33192 5.92804L13.5438 0H12.3087L7.78328 5.14724L4.16883 0H0L5.46575 7.78353L0 14H1.2351L6.01407 8.56431L9.83119 14H14L8.33192 5.92804ZM6.64027 7.85211L6.08648 7.07704L1.68013 0.909771H3.57718L7.13316 5.88696L7.68694 6.66202L12.3093 13.1316H10.4123L6.64027 7.85211Z"
-                                                                fill="currentColor" />
-                                                        </svg>
-                                                    </a>
-                                                </li>
-                                                <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                            </ul>
+                                    <div class="col-md-6">
+                                        <div class="form-grp">
+                                            <label for="last-name">Nombre</label>
+                                            <input type="text" id="last-name" placeholder="nombre">
                                         </div>
                                     </div>
                                 </div>
+                                <div class="form-grp">
+                                    <label for="email">Correo</label>
+                                    <input type="email" id="email" placeholder="correo">
+                                </div>
+                                <div class="form-grp">
+                                    <label for="password">Contraseña</label>
+                                    <input type="password" id="password" placeholder="contraseña">
+                                </div>
+                                <div class="form-grp">
+                                    <label for="confirm-password">Confirma tu Contraseña</label>
+                                    <input type="password" id="confirm-password" placeholder="Confirma tu contraseña">
+                                </div>
+                                <button type="submit" class="btn btn-two arrow-btn">Crear cuenta</button>
+                            </form>
+                            <div class="account__switch">
+                                <p>Ya tienes una cuenta?<a href="/login">Inicia sesion</a></p>
                             </div>
                         </div>
-                    </div>
-                    <div class="blog-post-sidebar">
-                        <aside class="blog-sidebar tournament__sidebar">
-                            <div class="shop__widget">
-                                <h4 class="shop__widget-title">search</h4>
-                                <div class="shop__widget-inner">
-                                    <div class="shop__search">
-                                        <input type="text" placeholder="Search here">
-                                        <button class="p-0 border-0"><i class="flaticon-search"></i></button>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="shop__widget">
-                                <h4 class="shop__widget-title">TRENDING MATCHES</h4>
-                                <div class="shop__widget-inner">
-                                    <div class="trending__matches-list">
-                                        <div class="trending__matches-item">
-                                            <div class="trending__matches-thumb">
-                                                <a href="#"><img src="assets/img/others/trend_match01.png" alt="img"></a>
-                                            </div>
-                                            <div class="trending__matches-content">
-                                                <div class="info">
-                                                    <h5 class="title"><a href="#">FoxTie Max</a></h5>
-                                                    <span class="price">$ 7500</span>
-                                                </div>
-                                                <div class="play">
-                                                    <a href="https://www.youtube.com/watch?v=a3_o4SpV1vI" class="popup-video"><i class="far fa-play-circle"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="trending__matches-item">
-                                            <div class="trending__matches-thumb">
-                                                <a href="#"><img src="assets/img/others/trend_match02.png" alt="img"></a>
-                                            </div>
-                                            <div class="trending__matches-content">
-                                                <div class="info">
-                                                    <h5 class="title"><a href="#">hatax ninja</a></h5>
-                                                    <span class="price">$ 5500</span>
-                                                </div>
-                                                <div class="play">
-                                                    <a href="https://www.youtube.com/watch?v=a3_o4SpV1vI" class="popup-video"><i class="far fa-play-circle"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="trending__matches-item">
-                                            <div class="trending__matches-thumb">
-                                                <a href="#"><img src="assets/img/others/trend_match03.png" alt="img"></a>
-                                            </div>
-                                            <div class="trending__matches-content">
-                                                <div class="info">
-                                                    <h5 class="title"><a href="#">spartan ii</a></h5>
-                                                    <span class="price">$ 3500</span>
-                                                </div>
-                                                <div class="play">
-                                                    <a href="https://www.youtube.com/watch?v=a3_o4SpV1vI" class="popup-video"><i class="far fa-play-circle"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="shop__widget">
-                                <h4 class="shop__widget-title">ADVERTISEMENT</h4>
-                                <div class="shop__widget-inner">
-                                    <div class="tournament__advertisement">
-                                        <a href="#"><img src="assets/img/others/tournament_ad.jpg" alt="img"></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </aside>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- tournament-details-area-end -->
+        <!-- signup-area-end -->
 
     </main>
     <!-- main-area-end -->
@@ -406,16 +327,16 @@
                     <div class="col-xl-4 col-lg-5 col-md-7">
                         <div class="footer-widget">
                             <div class="footer-logo logo">
-                                <a href="index.html"><img src="assets/img/logo/logo.png" alt="Logo"></a>
+                                <a href="index.html"><img src="../assets/img/logo/logo.png" alt="Logo"></a>
                             </div>
                             <div class="footer-text">
                                 <p class="desc">Lorem ipsum dolor sitamet consectur adipiscing Duis esollici tudin augue euismod. Nulla ullam dolor sitamet consectetur</p>
                                 <p class="social-title">Active <span>With Us <i class="fas fa-angle-double-right"></i></span></p>
                                 <div class="footer-social">
-                                    <a href="#"><img src="assets/img/icons/social_icon01.png" alt="iocn"></a>
-                                    <a href="#"><img src="assets/img/icons/social_icon02.png" alt="iocn"></a>
-                                    <a href="#"><img src="assets/img/icons/social_icon03.png" alt="iocn"></a>
-                                    <a href="#"><img src="assets/img/icons/social_icon04.png" alt="iocn"></a>
+                                    <a href="#"><img src="../assets/img/icons/social_icon01.png" alt="iocn"></a>
+                                    <a href="#"><img src="../assets/img/icons/social_icon02.png" alt="iocn"></a>
+                                    <a href="#"><img src="../assets/img/icons/social_icon03.png" alt="iocn"></a>
+                                    <a href="#"><img src="../assets/img/icons/social_icon04.png" alt="iocn"></a>
                                 </div>
                             </div>
                         </div>
@@ -471,7 +392,7 @@
                     </div>
                     <div class="col-md-5">
                         <div class="copyright__card text-center text-md-end">
-                            <img src="assets/img/others/payment_card.png" alt="img">
+                            <img src="../assets/img/others/payment_card.png" alt="img">
                         </div>
                     </div>
                 </div>
@@ -483,10 +404,10 @@
 
 
     <!-- JS here -->
-    <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
-    <script src="assets/js/plugins.js"></script>
-    <script src="assets/js/ajax-form.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="../assets/js/vendor/jquery-3.6.0.min.js"></script>
+    <script src="../assets/js/plugins.js"></script>
+    <script src="../assets/js/ajax-form.js"></script>
+    <script src="../assets/js/main.js"></script>
 </body>
 
 </html>

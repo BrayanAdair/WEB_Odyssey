@@ -7,17 +7,17 @@
                         <div class="tgmenu__wrap">
                             <nav class="tgmenu__nav">
                                 <div class="logo">
-                                    <a href="/"><img src="assets/img/logo/logo.png" alt="Logo"></a>
+                                    <a href="/"><img src="../assets/img/logo/logo.png" alt="Logo"></a>
                                 </div>
                                 <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-xl-flex">
                                     <ul class="navigation">
                                         <li class="active menu-item-has-children"><a href="/">Odyssey</a>
-                                          
+                                        
                                         </li>
-                                        <li><a href="about-us.php"> Comandos</a></li>
-                                        <li class="menu-item-has-children"><a href="tournament.php">Servers & Planes</a>
+                                        <li><a href="/comandos">Comandos</a></li>
+                                        <li class="menu-item-has-children"><a href="/servidores">Servers & Planes</a>
                                         </li>
-                                        <li class="menu-item-has-children"><a href="javascript:void(0)">Planes</a>
+                                        <li class="menu-item-has-children"><a href="javascript:void(0)">Más de Odyssey</a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item-has-children"><a href="javascript:void(0)">Gaming Shop</a>
                                                     <ul class="sub-menu">
@@ -30,7 +30,7 @@
                                                 <li><a href="services.php">Our Services</a></li>
                                                 <li><a href="services-details.php">Services Details</a></li>
                                                 <li><a href="team-details.php">Player Details</a></li>
-                                                <li><a href="login.php">Login</a></li>
+                                                <li><a href="/login">Login</a></li>
                                                 <li><a href="sign-up.php">Sign up</a></li>
                                                 <li><a href="reset-password.php">Forgot Password</a></li>
                                                 <li><a href="404.php">404 Page</a></li>
@@ -49,10 +49,10 @@
                                     <ul class="list-wrap">
                                         <li class="search"><a href="javascript:void(0)"><i class="flaticon-loupe"></i></a></li>
                                         <li class="header-btn">
-                                            <a href="login.php" class="tg-btn-3 tg-svg">
+                                            <a href="/login" class="tg-btn-3 tg-svg">
                                                 <div class="svg-icon" id="svg-2" data-svg-icon="assets/img/icons/shape02.svg"></div>
                                                 <i class="flaticon-edit"></i>
-                                                <span>Entrar</span>
+                                                <span>STAFF</span>
                                             </a>
                                         </li>
                                         <li class="side-toggle-icon">
