@@ -30,24 +30,20 @@
                                                 <li><a href="services.php">Our Services</a></li>
                                                 <li><a href="services-details.php">Services Details</a></li>
                                                 <li><a href="team-details.php">Player Details</a></li>
-                                                <li><a href="/login">Login</a></li>
-                                                <li><a href="sign-up.php">Sign up</a></li>
-                                                <li><a href="reset-password.php">Forgot Password</a></li>
                                                 <li><a href="404.php">404 Page</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item-has-children"><a href="javascript:void(0)">FAQ</a>
-                                            <ul class="sub-menu">
                                                 <li><a href="blog.php">Our Blog</a></li>
                                                 <li><a href="blog-details.php">Blog Details</a></li>
                                             </ul>
+                                        </li>
+                                        <li class="menu-item-has-children"><a href="https://discord.gg/nTHBZCqW2p">Discord</a>
+                                       
                                         </li>
                                        
                                     </ul>
                                 </div>
                                 <div class="tgmenu__action d-none d-md-block">
                                     <ul class="list-wrap">
-                                        <li class="search"><a href="javascript:void(0)"><i class="flaticon-loupe"></i></a></li>
+                                        
                                         <li class="header-btn">
                                             <a href="/login" class="tg-btn-3 tg-svg">
                                                 <div class="svg-icon" id="svg-2" data-svg-icon="assets/img/icons/shape02.svg"></div>

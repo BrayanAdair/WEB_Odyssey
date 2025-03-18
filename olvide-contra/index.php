@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Odyssey Bot - Iniciar sesion</title>
+    <title>Odyssey Bot - Olvide la contraseña</title>
     <meta name="description" content="eSports and Gaming NFT Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico in the root directory -->
@@ -29,7 +29,7 @@
     <!-- header-area -->
     <?php
     include '../utils/header.php';
-    ?>
+?>
     <!-- header-area-end -->
 
 
@@ -44,11 +44,11 @@
                     <div class="row">
                         <div class="col-xl-6 col-lg-7">
                             <div class="breadcrumb__content">
-                                <h2 class="title">Inicia Sesion</h2>
+                                <h2 class="title">Reset Password</h2>
                                 <nav aria-label="breadcrumb">
                                     <ol class="breadcrumb">
-                                        <li class="breadcrumb-item"><a href="index.html">Odyssey Bot</a></li>
-                                        <li class="breadcrumb-item active" aria-current="page">Solo STAFF</li>
+                                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                                        <li class="breadcrumb-item active" aria-current="page">Reset Password</li>
                                     </ol>
                                 </nav>
                             </div>
@@ -70,44 +70,17 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-6 col-lg-8">
                         <div class="singUp-wrap">
-                            <h2 class="title text-center">¡Bienvenido de nuevo!</h2>
-                            <p>¡Te recordamos que este login de momento solo es para nuestro STAFF de Odyssey Bot! (proximamente para todos)</p>
-                            <div class="account__social">
-                                <a href="#" class="account__social-btn">
-                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M20.16 12.1932C20.16 11.5905 20.1059 11.011 20.0055 10.4546H12V13.7425H16.5746C16.3775 14.8051 15.7786 15.7053 14.8784 16.308V18.4407H17.6255C19.2327 16.961 20.16 14.7819 20.16 12.1932Z" fill="#4285F4" />
-                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0002 20.5C14.2952 20.5 16.2193 19.7389 17.6257 18.4407L14.8786 16.3079C14.1175 16.8179 13.1439 17.1193 12.0002 17.1193C9.78635 17.1193 7.91248 15.6241 7.24407 13.615H4.4043V15.8173C5.80294 18.5952 8.67749 20.5 12.0002 20.5Z" fill="#34A853" />
-                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M7.24387 13.6151C7.07387 13.1051 6.97728 12.5604 6.97728 12.0001C6.97728 11.4399 7.07387 10.8951 7.24387 10.3851V8.18286H4.40409C3.82841 9.33036 3.5 10.6285 3.5 12.0001C3.5 13.3717 3.82841 14.6699 4.40409 15.8174L7.24387 13.6151Z" fill="#FBBC05" />
-                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0002 6.88069C13.2482 6.88069 14.3686 7.30955 15.2495 8.15183L17.6875 5.71387C16.2155 4.34227 14.2914 3.5 12.0002 3.5C8.67748 3.5 5.80294 5.40478 4.4043 8.18273L7.24407 10.385C7.91248 8.37592 9.78635 6.88069 12.0002 6.88069Z" fill="#EA4335" />
-                                    </svg>
-                                    Continua con google (proximamente)
-                                </a>
-                            </div>
-                            <div class="account__divider">
-                                <span>Ingresa tus Credenciales</span>
-                            </div>
+                            <h2 class="title text-center">¿Olvidaste tu contraseña?</h2>
+                            <p>Escribe tu email al que enviaremos una confirmacion de tu contraseña (proximamente en funcionamiento)</p>
                             <form action="#" class="account__form">
                                 <div class="form-grp">
                                     <label for="email">Correo</label>
-                                    <input id="email" type="text" placeholder="Escribe tu correo">
+                                    <input id="email" type="text" placeholder="Escribe tu correo electronico">
                                 </div>
-                                <div class="form-grp">
-                                    <label for="password">Contraseña</label>
-                                    <input id="password" type="text" placeholder="Escribe tu contraseña">
-                                </div>
-                                <div class="account__check">
-                                    <div class="account__check-remember">
-                                        <input type="checkbox" class="form-check-input" value="" id="terms-check">
-                                        <label for="terms-check" class="form-check-label">Recuerdame</label>
-                                    </div>
-                                    <div class="account__check-forgot">
-                                        <a href="/olvide-contra">Olvidaste la contraseña?</a>
-                                    </div>
-                                </div>
-                                <button type="submit" class="btn btn-two arrow-btn">ENTRAR</button>
+                                <button type="submit" class="btn mt-15 btn-two arrow-btn">Enviar Correo</button>
                             </form>
                             <div class="account__switch">
-                                <p>¿Aun no tienes cuenta?<a href="/registrate">Crear una</a></p>
+                                <p>Recordar Contraseña?<a href="login.html">Ingresar</a></p>
                             </div>
                         </div>
                     </div>

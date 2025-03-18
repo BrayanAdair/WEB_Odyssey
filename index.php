@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>MYKD - eSports and Gaming NFT Template</title>
+    <title>Odyssey Bot - Bot roleplay gratuito gta</title>
     <meta name="description" content="eSports and Gaming NFT Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico in the root directory -->
@@ -89,7 +89,7 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="grand__final">
-                            <h6 class="grand__final-date">Octube 18, 2024 | 9:50 am</h6>
+                            <h6 class="grand__final-date">Mira nuestro historial de versiones y mejoras que hemos tenido incluso la mas reciente</h6>
                             <span class="grand__final-place">Ver Detalles de la update</span>
                             <div class="grand__final-button d-flex">
                                 <a href="tournament-details.html" class="tg-btn-3 tg-svg mx-auto">
@@ -106,7 +106,85 @@
 
         <!-- area-background-start -->
         <div class="area-background" data-background="assets/img/bg/area_bg02.jpg">
-
+        <!-- Categorias comandos -->
+        <section class="services-area services__bg-color section-pt-120 section-pb-120">
+            <div class="container">
+                <div class="row align-items-end align-items-xl-start">
+                    <div class="col-lg-12">
+                        <div class="section__title text-start mb-65">
+                            <span class="sub-title tg__animate-text">Categorias de Odyssey Bot</span>
+                            <h3 class="title">Añade a tu servidor roleplay nuestras funcionalidades</h3>
+                        </div>
+                        <div class="services__wrapper">
+                            <div class="services__item">
+                                <div class="services__icon">
+                                    <i class="flaticon-settings-1"></i>
+                                </div>
+                                <div class="services__content">
+                                    <h4 class="title"><a href="/comandos">Sistema Multilenguaje</a></h4>
+                                    <p>Compatible con español, inglés, francés y portugués, permitiendo a los jugadores disfrutar de la experiencia en su idioma preferido.</p>
+                                </div>
+                            </div>
+                            <div class="services__item">
+                                <div class="services__icon">
+                                    <i class="flaticon-settings-1"></i>
+                                </div>
+                                <div class="services__content">
+                                    <h4 class="title"><a href="/comandos">Sistema Administrativo</a></h4>
+                                    <p>Configuración de roles y permisos de usuario,
+                                        Control total sobre la economía y los salarios y 
+                                        Personalización del idioma de la interfaz.</p>
+                                </div>
+                            </div>
+                            <div class="services__item">
+                                <div class="services__icon">
+                                    <i class="flaticon-settings-1"></i>
+                                </div>
+                                <div class="services__content">
+                                    <h4 class="title"><a href="/comandos">Sistema de economía</a></h4>
+                                    <p>Manejo de dinero legal e ilegal (cash, banco y fondos ilícitos),
+                                    Posibilidad de transferencias, depósitos, retiros y blanqueo de dinero y nuestra ultima mejora una tienda de objetos roleplay</p>
+                                </div>
+                            </div>
+                            <div class="services__item">
+                                <div class="services__icon">
+                                    <i class="flaticon-settings-1"></i>
+                                </div>
+                                <div class="services__content">
+                                    <h4 class="title"><a href="/comandos">Sistema de Identidad</a></h4>
+                                    <p>Documentos de identificación personal (DNI, carnets de conducir),
+                                    Identificación especial para policías y cuerpos de seguridad.</p>
+                                </div>
+                            </div>
+                            <div class="services__item">
+                                <div class="services__icon">
+                                    <i class="flaticon-settings-1"></i>
+                                </div>
+                                <div class="services__content">
+                                    <h4 class="title"><a href="/comandos">Sistema de roles y trabajos</a></h4>
+                                    <p>Diversidad de profesiones como policía, médico o criminal, entre otros.
+                                        Salarios automáticos ajustables según el rol.
+                                        Registro de entrada y salida del trabajo.</p>
+                                </div>
+                            </div>
+                            <div class="services__item">
+                                <div class="services__icon">
+                                    <i class="flaticon-settings-1"></i>
+                                </div>
+                                <div class="services__content">
+                                    <h4 class="title"><a href="/comandos">Actividades de roleplay</a></h4>
+                                    <p>Acciones e interacciones realistas para mayor inmersión.
+                                        Multas, arrestos y escenarios criminales como atracos y producción de drogas.
+                                        Sistema de mensajería al estilo WhatsApp, Facebook y Twitter.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+        <!-- Fin Catehorias comandos-->
         <!-- about-area -->
         <section class="about__area-two section-pt-160 section-pb-190">
             <div class="container">
@@ -116,13 +194,7 @@
                             <img src="assets/img/others/fun_fact_shape.png" alt="background" class="bg-shape">
                             <img src="assets/img/others/fun_fact.png" class="main-img" alt="image">
                         </div>
-                        <div class="about__funFact-trophy">
-                            <div class="icon"><img src="assets/img/icons/trophy.png" alt="trophy"></div>
-                            <div class="content">
-                                <h5>Tournament</h5>
-                                <span>Development</span>
-                            </div>
-                        </div>
+                  
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-10">
                         <div class="section__title text-start mb-30">

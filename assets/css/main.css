@@ -53,7 +53,9 @@
      --tg-fw-regular: 400;
      --tg-fw-light: 300;
  }
-
+.wow{
+    text-shadow: #000 0px 0px 10px;
+}
  body {
      font-family: var(--tg-body-font-family);
      font-size: var(--tg-body-font-size);
@@ -712,7 +714,7 @@
  }
 
  .search__wrap .title {
-     font-size: 47px;
+     font-size: 45px;
      margin: 0 0 70px 0;
      font-family: var(--tg-heading-font-family);
      font-weight: var(--tg-fw-extra-bold);
@@ -2689,7 +2691,9 @@
      font-size: 150px;
      font-family: var(--tg-berlin-font-family);
      line-height: 0.8;
-     text-shadow: -1px 5px 0px rgba(69, 248, 130, 0.66);
+     text-shadow: -1px 5px 0px rgba(3, 3, 3, 0.66);
+     text-decoration: #000;
+     color: #ffffffdc;
  }
 
  @media (max-width: 1500px) {
@@ -3045,7 +3049,7 @@
 
  @media (max-width: 1500px) {
      .banner__content .title {
-         font-size: 136px;
+         font-size: 129px;
      }
  }
 

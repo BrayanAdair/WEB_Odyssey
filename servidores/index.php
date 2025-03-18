@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>MYKD - eSports and Gaming NFT Template</title>
+    <title>Odyssey Bot - Servidores y Planes</title>
     <meta name="description" content="eSports and Gaming NFT Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico in the root directory -->
@@ -78,7 +78,7 @@
                                     <span>2 USD</span>
                                 </div>
                                 <div class="tournament__box-countdown">
-                                    <div class="coming-time" data-countdown="2025/5/16"></div>
+                                    
                                 </div>
                                 <div class="tournament__box-caption">
                                     <span class="sub">TOURNAMENT</span>
@@ -95,16 +95,16 @@
                                                 <img src="../assets/img/others/tournament01.jpg" alt="img">
                                             </div>
                                             <h6 class="tournament__player-name">black ninja</h6>
-                                            <span class="tournament__player-price">$ 75000 <i class="fas fa-bolt"></i></span>
+                                            
                                         </div>
                                     </li>
                                     <li>
                                         <div class="tournament__box-list-item">
                                             <div class="tournament__player-thumb">
-                                                <img src="../assets/img/others/tournament02.jpg" alt="img">
+                                                <img src="../assets/img/others/fun_fact.png" alt="img">
                                             </div>
                                             <h6 class="tournament__player-name">Foxtie Max</h6>
-                                            <span class="tournament__player-price">$ 65000 <i class="fas fa-bolt"></i></span>
+                                            
                                         </div>
                                     </li>
                                     <li>
@@ -113,7 +113,7 @@
                                                 <img src="../assets/img/others/tournament03.jpg" alt="img">
                                             </div>
                                             <h6 class="tournament__player-name">Holam Doxe</h6>
-                                            <span class="tournament__player-price">$ 55000 <i class="fas fa-bolt"></i></span>
+                                           
                                         </div>
                                     </li>
                                 </ul>
@@ -132,7 +132,7 @@
                                     <span>8 USD</span>
                                 </div>
                                 <div class="tournament__box-countdown">
-                                    <div class="coming-time" data-countdown="2025/5/16"></div>
+                              
                                 </div>
                                 <div class="tournament__box-caption">
                                     <span class="sub">TOURNAMENT</span>
@@ -186,7 +186,7 @@
                                     <span>4 USD</span>
                                 </div>
                                 <div class="tournament__box-countdown">
-                                    <div class="coming-time" data-countdown="2025/5/16"></div>
+                                  
                                 </div>
                                 <div class="tournament__box-caption">
                                     <span class="sub">TOURNAMENT</span>
