@@ -55,7 +55,7 @@
                         </div>
                         <div class="col-xl-6 col-lg-5 position-relative d-none d-lg-block">
                             <div class="breadcrumb__img">
-                                <img src="../assets/img/others/breadcrumb_img02.png" alt="img">
+                                <img src="../assets/img/others/fun_fact.png" alt="img">
                             </div>
                         </div>
                     </div>

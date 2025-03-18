@@ -58,7 +58,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="copyright__text text-center text-lg-start">
-                            <p>Copyright © 2024 - <span>Odyssey Bot</span> - Desarrollado por <span><a href="https://bzsoftwares.com/">Bz Softwares</a></span></p>
+                            <p>Copyright © 2025 - <span>Odyssey Bot</span> - Desarrollado por <span><a href="https://bzsoftwares.com/">Bz Softwares</a></span></p>
                         </div>
                     </div>
                     <div class="col-lg-6">
