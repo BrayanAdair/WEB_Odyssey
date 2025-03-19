@@ -11,9 +11,9 @@
                     <div class="col-lg-6">
                         <div class="copyright__menu">
                             <ul class="list-wrap d-flex flex-wrap justify-content-center justify-content-lg-end">
-                                <li><a href="contact.php">Contactanos</a></li>
-                                <li><a href="contact.php">Trabaja con nosotros</a></li>
-                                <li><a href="contact.php">Politica de Privacidad</a></li>
+                                <li><a href="https://discord.gg/nTHBZCqW2p">Contactanos</a></li>
+                                <li><a href="https://discord.gg/nTHBZCqW2p">Trabaja con nosotros</a></li>
+                                <li><a href="/404">Politica de Privacidad</a></li>
                             </ul>
                         </div>
                     </div>

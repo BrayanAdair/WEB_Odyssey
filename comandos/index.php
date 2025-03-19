@@ -201,7 +201,7 @@
 
     <!-- footer-start -->
     <?php
-    include '../utils/footer.php';
+    include '../utils/footerCorto.php';
     ?>
     <!-- footer-start-end -->
 

@@ -90,9 +90,9 @@
                     <div class="col-12">
                         <div class="grand__final">
                             <h6 class="grand__final-date">Mira nuestro historial de versiones y mejoras que hemos tenido incluso la mas reciente</h6>
+                            <a href="https://botstudios.neocities.org/archives" class="tg-btn-3 tg-svg mx-auto">
                             <span class="grand__final-place">Ver Detalles de la update</span>
                             <div class="grand__final-button d-flex">
-                                <a href="tournament-details.html" class="tg-btn-3 tg-svg mx-auto">
                                     <div class="svg-icon" id="svg-5" data-svg-icon="assets/img/icons/shape.svg"></div>
                                     <span>read more</span>
                                 </a>

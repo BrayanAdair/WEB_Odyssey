@@ -11,19 +11,17 @@
                                 </div>
                                 <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-xl-flex">
                                     <ul class="navigation">
-                                        <li class="active menu-item-has-children"><a href="/">Odyssey</a>
-                                        
-                                        </li>
+                                        <li class="active "><a href="/">Odyssey</a></li>
                                         <li><a href="/comandos">Comandos</a></li>
-                                        <li class="menu-item-has-children"><a href="/servidores">Servers & Planes</a>
+                                        <li><a href="/servidores">Servers & Planes</a>
                                         </li>
                                         <li class="menu-item-has-children"><a href="javascript:void(0)">Más de Odyssey</a>
                                             <ul class="sub-menu">
                                                 <li><a href="/faq">Preguntas Frecuentes</a></li>
-                                                <li><a href="https://bzsoftwares.com">Historial de versiones</a></li>
+                                                <li><a href="https://botstudios.neocities.org/archives">Historial de versiones</a></li>
                                             </ul>
                                         </li>
-                                        <li class="menu-item-has-children"><a href="https://discord.gg/nTHBZCqW2p">Discord</a>
+                                        <li><a href="https://discord.gg/nTHBZCqW2p">Discord</a>
                                        
                                         </li>
                                        
@@ -81,7 +79,6 @@
                             </a>
                         </li>
                         <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                         <li><a href="#"><i class="fab fa-youtube"></i></a></li>
                     </ul>
                 </div>

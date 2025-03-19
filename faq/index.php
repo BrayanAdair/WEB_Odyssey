@@ -70,7 +70,7 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="team__details-img">
-                            <img src="../assets/img/others/services_details.jpg" alt="img">
+                            <img src="../assets/img/others/services_details.png" alt="img">
                             <svg width="145" height="66" viewBox="0 0 145 66" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <g opacity="0.95">
                                     <path d="M11.94 56.1H0V65.38H11.94V56.1Z" fill="currentcolor"/>
@@ -200,27 +200,19 @@
                         <div class="services__images">
                             <div class="services__images-item active">
                                 <img src="../assets/img/others/services_img01.jpg" alt="img">
-                                <a href="services-details.html" class="services__link">
-                                    <i class="flaticon-next"></i>
-                                </a>
+                             
                             </div>
                             <div class="services__images-item">
                                 <img src="../assets/img/others/services_img02.jpg" alt="img">
-                                <a href="services-details.html" class="services__link">
-                                    <i class="flaticon-next"></i>
-                                </a>
+                            
                             </div>
                             <div class="services__images-item">
                                 <img src="../assets/img/others/services_img03.jpg" alt="img">
-                                <a href="services-details.html" class="services__link">
-                                    <i class="flaticon-next"></i>
-                                </a>
+                            
                             </div>
                             <div class="services__images-item">
                                 <img src="../assets/img/others/services_img04.jpg" alt="img">
-                                <a href="services-details.html" class="services__link">
-                                    <i class="flaticon-next"></i>
-                                </a>
+    
                             </div>
                         </div>
                     </div>
@@ -235,7 +227,7 @@
 
     <!-- footer-start -->
     <?php
-    include '../utils/footer.php';
+    include '../utils/footerCorto.php';
     ?>
     <!-- footer-start-end -->
     <!-- JS here -->
